@@ -1,0 +1,7 @@
+*.class
+eclipse/.metadata
+eclipse/Client/.metadata
+temp
+jars/logs
+*.pyc
+logs
